@@ -1,8 +1,8 @@
 # 😎 Thavio dos Sites
 
-**`Desenvolvedor`**
+**`Desenvolvedor Iniciante`**
 
-Me chamo Othavio Viana dos Santos, tenho 18 anos e sou natural de SP. Concluí o ensino médio na Etec, com o curso técnico em informática.👍
+Me chamo Othavio Viana dos Santos, tenho 18 anos e sou natural de Morato City. Concluí o ensino médio na Etec, com o curso técnico em informática.👍
 
 <p align="left">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
