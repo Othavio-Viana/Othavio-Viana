@@ -5,20 +5,21 @@
 Me chamo Othavio Viana dos Santos, tenho 18 anos e sou natural de Morato City. Concluí o ensino médio na Etec, com o curso técnico em informática.👍
 
 <p align="left">
-    <a href="https://github.com/Othavio-Viana?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Othavio-Viana?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Othavio-Viana?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Othavio-Viana?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<a href="https://github.com/Othavio-Viana?tab=repositories&sort=stargazers">
+  <img 
+    alt="Total de estrelas" 
+    title="Total de estrelas GitHub" 
+    src="https://img.shields.io/github/stars/Othavio-Viana?style=for-the-badge"
+  />
+</a>
+
+<a href="https://github.com/Othavio-Viana?tab=followers">
+  <img 
+    alt="Seguidores" 
+    title="Me siga no GitHub" 
+    src="https://img.shields.io/github/followers/Othavio-Viana?style=for-the-badge"
+  />
+</a>
 </p>
 
 ---
